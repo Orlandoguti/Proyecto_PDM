@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Medisis</string>
+        <string name="txt_codigo">Código del producto</string>
+        <string name="txt_descripcion">Nombre del producto</string>
+        <string name="txt_precio">Precio del producto</string>
+        <string name="BotonRegistrar">Registrar Producto</string>
+        <string name="BotonBuscar">Buscar Producto</string>
+        <string name="BotonEliminar">Eliminar Producto</string>
+        <string name="BotonModificar">Modificar Producto</string>
+        <string name="BotonMostrar">Mostrar Productos</string>
+        <string name="lbl1">Ingrese un Codigo</string>
+        <string name="lbl2">Ingrese el Producto</string>
+        <string name="lbl3">Ingrese el Costo</string>
+        <string name="lbl4">Ingrese SC </string>
+        <string name="lbproc"> PRODUCTO </string>
+
+    </resources>
